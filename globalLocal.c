@@ -11,7 +11,7 @@ void myFunc() {
 
 int main() {
   // You can change `myNumber` to be larger than `50`
-  int myNumber = 665;
+  int myNumber = 555;
 
   if (myNumber <= 50) {
     printf("%d\n%s\n", myNumber, myMessage);
