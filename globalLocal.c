@@ -15,7 +15,7 @@ int main() {
 
   if (myNumber <= 50) {
     printf("%d\n%s\n", myNumber, myMessage);
-  } else {
+  } else { 
     int myNumber = 500;
     printf("%d\n", myNumber);
     myFunc();
